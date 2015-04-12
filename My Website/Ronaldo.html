@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Deepak Anand - Welcome to my Official Website</title>
+            <meta property="og:title" content="Cristiano Ronaldo Official Website"/>
+    <meta property="og:image" content="http://www.cristianoronaldo.com/ui/images/fb_share_2014.jpg"/>
+    <meta property="og:url" content="http://www.cristianoronaldo.com/"/>
+    <meta property="og:site_name" content="Cristiano Ronaldo Official Website, by branditnext.com"/>
+    <meta property="og:description" content="Welcome to my new Official Website. Access unique content, also from fans and use the “fanwall” feature to share your best photos, videos and text. by branditnext.com"/>
+    <meta name="description" content="Know more about Cristiano Ronaldo on his official website. Access unique content, also from fans and use the “fanwall” feature to share your best photos, videos and text.">
+        <meta name="keywords" content="cristiano, ronaldo, cristiano ronaldo, cr7, real madrid, portugal, ballon d'or, branditnext, brandit">
+    <meta name="author" content="Paulo Doellinger, Ricardo Peixoto, branditnext.com">
+    <link rel="shortcut icon" href="http://www.cristianoronaldo.com/favicon.ico" />
+    <link href="http://www.cristianoronaldo.com/ui/css/style.css?v=2015.01" rel="stylesheet" type="text/css" />
+    <link href="http://www.cristianoronaldo.com/ui/css/box.css" rel="stylesheet" type="text/css" />
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+    <script src="http://www.cristianoronaldo.com/ui/js/jquery.min.js"></script>
+    <script src="http://www.cristianoronaldo.com/ui/js/jquery.box.js"></script>
+    <script src="http://www.cristianoronaldo.com/ui/js/common.js"></script>
+    </head>
+<body class="body-home">
+<!-- background -->
+<div class="background home"></div>
+ <!--[if lt IE 9]>
+<div class="ltie9-notice-fixed">
+    <p>TO FULLY ENJOY THIS
+WEBSITE YOU SHOULD <a href="http://windows.microsoft.com/pt-br/internet-explorer/download-ie">UPDATE YOUR BROWSER</a></p>
+</div>
+<![endif]-->
+<div class="fixedMenuWrapper">
+    <div class="fixedMenu gray">
+        <ul class="main-menu">
+            <li><a href="latest">Latest</a></li>
+            <li><a href="career">Career</a></li>
+            <li><a href="stats">Stats</a></li>
+            <li class="down"><a class="down" href="#">Down</a></li>
+            <li><a href="myteam">My Team</a></li>
+            <li><a href="fanwall">Fanwall</a></li>
+            <li><a href="downloads">Downloads</a></li>
+        </ul>
+    </div>
+
+        
+</div>
+
+<div class="sliderFixed">
+<div class="sliderWrapper">
+    <div id="slider">
+        <div class="sliderContent">
+            
+            <div class="fixedMenu none"></div>
+
+            <div class="header-columns">
+                
+                <div class="col logo">
+                    <h1><a href="/"><img src="http://www.cristianoronaldo.com/ui/images/logo.png" /></a></h1>
+                </div>
+
+                <div class="col mobile-menu">
+                    <ul>
+                        <li><a href="latest">Latest</a></li>
+                        <li><a href="career">Career</a></li>
+                        <li><a href="stats">Stats</a></li>
+                        <li><a href="myteam">My Team</a></li>
+                        <li><a href="fanwall">Fanwall</a></li>
+                        <li><a href="downloads">Downloads</a></li>
+                    </ul>
+                </div>
+
+                <div class="col social-menu">
+                    <ul class="social">
+                        <li><a class="fb out" href="https://www.facebook.com/Cristiano" target="_blank" title="Facebook">Facebook</a></li>
+                        <li><a class="tw" href="https://twitter.com/Cristiano" target="_blank" title="Twitter">Twitter</a></li>
+                        <li><a class="gp" href="https://plus.google.com/+CristianoRonaldo/" target="_blank" title="Google+">Google Plus</a></li>
+                        <li><a class="yt" href="http://www.youtube.com/user/CristianoRonaldo" target="_blank" title="Youtube">Youtube</a></li>
+                        <li class="no-m"><a class="in" href="http://instagram.com/cristiano" target="_blank" title="Instagram">Instagram</a></li>
+                        <li class="nw">&copy; 2014 Cristiano Ronaldo</li>
+                    </ul>
+                </div>
+
+                            </div>
+            
+        </div>
+    </div>
+    <div class="arrowWrapper">
+        <a href="#" class="topmenuaction"><span class="arrow">&nbsp;</span></a>
+    </div>
+</div>
+</div><script>
+	$(document).ready(function(){
+		//$('.body-home .logo').css('opacity', 0);
+		$('.background').css('opacity', 0);
+		$('.fixedMenuWrapper').css('margin-top', -100);
+	});
+	
+
+	$(window).load(function(){
+
+		$('.background').animate({opacity: 1}, 1500, function(){
+
+				$('.body-home .logo-home.center').addClass('blur');
+				$('.body-home .welcome').addClass('fade');
+				$('.body-home .ronaldo').addClass('fade');
+				/*$('.ronaldo').animate({opacity:1}, 1500);
+				*/
+
+				setTimeout(function(){
+					$('.fixedMenuWrapper').animate({'marginTop':0});
+
+					// redirect to news.
+					setTimeout(function(){
+
+						window.location = 'http://www.cristianoronaldo.com/latest';
+
+					}, 12000);
+
+				}, 1000);
+				
+
+			});
+
+		
+	});
+
+</script>
+<!--<h2 class="title">Welcome to my new<br>Official Website</h2>
+-->
+
+<div class="logo-home center">
+	<img src="ui/images/logo.png" />
+</div>
+
+<div class="welcome"></div>
+
+<div class="ronaldo"></div>
+
+</div><!-- end main-wrapper -->
+
+<!-- footer : signature -->
+<footer>
+    <div id="signature">by <a href="http://www.cristianoronaldo.com/out.php?utm_source=myteam&utm_medium=branditnext-footer&utm_term=myteam-branditnext-footer&utm_content=myteam-branditnext-footer&utm_campaign=sponsors-links&out=http://www.branditnext.com/" target="_blank"><strong>BranditNext</strong></a></div>
+
+    <div id="terms"><a href="terms" target="_blank">Terms and Conditions</a></div>
+</footer>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-38620225-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>  
+
+</body>
+</html>
