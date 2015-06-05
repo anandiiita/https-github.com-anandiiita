@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Deepak Anand</title>
+<link rel="shortcut icon" href="img/2.png" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="img/2.png" type="image/x-icon"/>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link href="css/theme.css" rel="stylesheet">
+	
+	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+	<div class="wrapper" id="wrapper">
+		<header>
+			<div class="banner row" id="banner">		
+				<div class="parallax text-center" style="background-image: url(img/1.jpg);">
+					<div class="parallax-pattern-overlay">
+						<div class="container text-center" style="height:600px;padding-top:170px;">
+							<a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/2.png" alt=""/></a>
+							<h2 class="intro"><a href="index.html">Deepak Anand</a></h2>
+						</div>
+					</div>
+				</div>
+			</div>	
+			<div class="menu">
+				<div class="navbar-wrapper">
+					<div class="container">
+						<div class="navwrapper">
+							<div class="navbar navbar-inverse navbar-static-top">
+								<div class="container">
+									<div class="navArea">
+										<div class="navbar-collapse collapse">
+											<ul class="nav navbar-nav">
+												<li class="menuItem active"><a href="#wrapper">Home</a></li>
+												<li class="menuItem"><a href="#aboutus">About me</a></li>
+												<li class="menuItem"><a href="#specialties">Favourites</a></li>
+												<li class="menuItem"><a href="#gallery">Gallary</a></li>
+												<li class="menuItem"><a href="#feedback">Education</a></li>
+												<li class="menuItem"><a href="#contact">Contact</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</header>
+	
+		<!--about us-->
+	<section class="aboutus" id="aboutus">
+		<div class="container">
+			<div class="heading text-center">				
+				<h2>About Me</h2>				
+				<h3>Deepak Anand is a name among millions who struggled, failed and surged ahead in search of success, happiness and contentment. Just like any other middle class guy, he too had a bunch of unclear dreams and a blurred vision of his goals in life. All he had was an undying learning attitude to hold on to. Rowing through ups and downs, it was time that taught him the true meaning of his life. Deepak Anand is a student of B.Tech.Recently, he is doing B.Tech from Indian Institute of Information Technology Allahabad in Information Technology. He has done I.Sc from D.A.V. College Siwan Bihar and Metriculation from Mahendra High School Ziradei Siwan.He belongs from a middle class background. He found his love towards Internet after reading the google story when he was fifteen. He was so inspired that he decided to became a Web Designer as well as Software Developer when he grew up.</h3>
+			</div>			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="papers text-center">
+						<img src="img/team/1.jpg" alt=""><br/>
+						<a href="#"><b>Download my resume</b></a>
+						<h4 class="">Deepak Anand</h4>
+						<p>
+							Deepak Anand is a name among millions who struggled, failed and surged ahead in search of success, happiness and contentment. Just like any other middle class guy, he too had a bunch of unclear dreams and a blurred vision of his goals in life. All he had was an undying learning attitude to hold on to. Rowing through ups and downs, it was time that taught him the true meaning of his life. Deepak Anand is a student of B.Tech.Recently, he is doing B.Tech from Indian Institute of Information Technology Allahabad in Information Technology. He has done I.Sc from D.A.V. College Siwan Bihar and Metriculation from Mahendra High School Ziradei Siwan.He belongs from a middle class background. He found his love towards Internet after reading the google story when he was fifteen. He was so inspired that he decided to became a Web Designer as well as Software Developer when he grew up.
+						</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="papers text-center">
+						<img src="img/team/2.jpg" alt=""><br/>
+						<a href="#"><b>Download my resume</b></a>
+						<h4 class="">Deepak Anand</h4>
+						<p>1.Keep your thoughts positive because your thoughts become your words. Keep your words positive because your words become your behaviors. Keep your behaviors positive because your behaviors become your habits. Keep your habits positive because your habits become your values. Keep your values positive because your values become your destiny. <br>
+						2.If you want to awaken all of humanity, then awaken all of yourself, if you want to eliminate the suffering in the world, then eliminate all that is negative in yourself.
+						Truly, the greatest gift you have to give is that of your own self-transformation.<br>3.Success is going from failure to failure without losing your enthusiasm.<br>
+						4.You've got to take the good with the bad, smile with the sad, love what you've got, and remember what you had. Always forgive, but never forget. Learn from mistakes, but never regret.
+						<br>5.There are only two ways to live your life.One is as though nothing is a miracle.The other is as though everything is a miracle.<br>6.Realization is simply to give birth to something within oneself.<br>
+						7.Science is not only compatible with spirituality; it is a profound source of spirituality. <br>8.A sacrifice to be real must cost, must hurt, and must empty ourselves. Give yourself fully to God. 
+						He will use you to accomplish great things on the condition that you believe much more in his love than in your weakness.<br>
+						9.The most important thing is to enjoy your life – to be happy  – it’s all that matters <br>
+						10.Happiness is when what you think, what you say, and what you do are in harmony.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+<!--skills-->
+	<section class="specialties" id="specialties">
+		<div class="container">
+			<div class="heading text-center">
+				<h2>Favourites</h2>
+				<h3><br>Recommended Books -</br>
+
+ 
+
+    <br>1.Srimad Bhagvad Gita (the "as it is" pocket book version) (A must-read for Success in the Spiritual as well as Materialistic world!)<br>
+    2.Tao Te Ching by Lao Tzu (It's simple, yet very deep. Gives a clear perspective on the way to the ultimate truth.)<br>
+    3.Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi (One of the best books that I have ever read!!!)<br>
+    4.Unlimited Power by Anthony Robbins (Nice to get motivated and excited to do something.)<br>
+    5.The Magic of Thinking Big by David J. Schwartz (Whether you think you can, or you think you can't, you're right!)<br>
+    6.Think & Grow Rich by Napolean Hill (Undoubtedly, the best book ever written on becoming successful in the materialistic world!)<br>
+    7.Marketing Management by Philip Kotler (For those who want to make it big in business.)<br>
+    8.See You At The Top by Zig Ziglar (Full of real-life examples, inspirational stories and motivational quotes)<br>
+    9.The Power of Now by Eckhart Tolle (Although I have read just a few pages of this book but I can say it with full confidence that this book has the power to change your life.)
+    10.Rumi by Farrukh Dhondy (Heart-to-heart words.)<br>
+    11.You can Heal Your Life by Louise L. Hay (The name says it all.)  <br>
+    12.Power Pranayama by Dr. Renu Mahtani (Nothing compares to Pranayama when it comes to good health!)<br>
+    13.The Supreme Yoga by Yoga Vasistha (Only for those who are at a very advanced state of consciousness.)<br>
+    14.Avadhoot Gita in Hindi by Nandlal Dashora (Only for those who are at a very advanced state of consciousness.)<br>
+    15.Ashtavakra Gita in Hindi by Nandlal Dashora (Only for those who are at a very advanced state of consciousness.)<br>
+	16.Core of the Yoga Sutra by BKS Iyengar (To get an in-depth knowledge and understanding of "Ashtanga Yoga")<br>
+	17.Krishna Niti by Dr. Girish P Jakhotiya (To enhance your leadership skills.)<br>
+	18.Chicken Soup for the Unsinkable Soul (Short stories to make you smile and cry.)<br>
+	19.Jonathan Livingston Seagull by Richard Bach (Get inspired for soaring to new heights.)<br>
+	20.Gandhi on Personal Leadership by Anand Kumarasamy (To bring out the leader in you! )<br>
+	21.How to Win Friends and Influence People by Dale Carnegie (The name says it all! )<br>
+	22.The Power of Positive Thinking by Norman Vincent Peale (In a nutshell, our life depends upon our way of thinking.)<br>
+	23.The 7 Habits of Highly Effective People by Stephen R. Covey (It's worth reading at least once.)<br>
+	24.Who Moved My Cheese? by Spencer Johnson (One of my all-time favourites. I am sure you will love it too! )<br>
+	25.The Alchemist by Paulo Coelho (Once you start reading it, you won't stop until you finish it!)<br>
+</br>
+<br>Recommended Videos -</br>
+
+ 
+
+ <br>   1.Ramana Maharshi's English Audio Book on Self-Enquiry  (WHO AM I) ( www.youtube.com/watch?v=J2VcZWypI9c )<br>
+    2.A Gift of Love (Heart Touching Rumi's Poetry) ( www.youtube.com/watch?v=X-idP23bHCg )<br>
+    3.Biography of Dr. APJ Abdul Kalam Narrated By Gulzar Saab ( www.youtube.com/watch?v=OnGPHjuHEXE&list=PLD9C6176A59A44575 )<br>
+    4.Dr Quantum - Double Slit Experiment ( www.youtube.com/watch?v=DfPeprQ7oGc )<br>
+    5.Look at Yourself by Nick Vujicic ( www.youtube.com/watch?v=Gc4HGQHgeFE )<br>
+    6.Steve Jobs' 2005 Stanford Commencement Address ( www.youtube.com/watch?v=UF8uR6Z6KLc )<br>
+    7.Inspirational - How Great I Am ( www.youtube.com/watch?v=V6xLYt265ZM )<br>
+    8.Randy Pausch Last Lecture: Achieving Your Childhood Dreams ( www.youtube.com/watch?v=ji5_MqicxSo )<br>
+    9.Spiritual Reality: Power of Meditation (In English) ( www.youtube.com/watch?v=P1Dlsa8tbvU )<br>
+    10.Spiritual Reality: Power of Meditation (In Hindi) ( www.youtube.com/watch?v=1DPKrKTRloQ )<br>
+    11.Soul-Stirring Rumi's Poetry (In English) ( www.youtube.com/watch?v=4I60ZHdx5Og )<br>
+    12.Jill Bolte Taylor's Stroke of Insight (in English) ( www.youtube.com/watch?v=UyyjU8fzEYU )</br>
+
+ </h3>
+			</div>
+		</div>	
+			
+	
+	<!--portfolio-->
+	<section class="gallery" id="gallery">
+		<div class="container">
+			<div class="heading text-center">				
+				<h2>Gallary</h2>
+				<h3>The most important thing is to enjoy your life - to be happy - it's all that matters. - Deepak Anand</h3>
+			</div>
+			
+			<div id="grid-gallery" class="grid-gallery">
+				<section class="grid-wrap">
+					<ul class="grid">
+						<li class="grid-sizer"></li><!-- for Masonry column width -->				
+						<li>
+							<figure>
+								<img src="img/work/1.jpg" alt=""/>
+								<figcaption>
+									<h3>Deepak Anand</h3>
+									<p>At Indian Institute of Information Technology,Allahabad</p>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/2.jpg" alt=""/>
+								<figcaption>
+									<h3>	Deepak Anand</h3>
+									<p>At Rishikesh Uttrakhand India</p>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/3.jpg" alt=""/>
+								<figcaption>
+									<h3>Deepak Anand with Friends</h3>
+									<p>At IIIT-Allahabad </p>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/4.jpg" alt=""/>
+								<figcaption>
+									<h3>Deepak Anand</h3>
+									<p>At Chandrashekhar Park Allahabad</p>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/5.jpg" alt=""/>
+								<figcaption>
+									<h3>IIIT-Allahabad</h3>
+									<p>IIIT-Allahabad Campus CC-1</p>
+								</figcaption>
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/6.jpg" alt=""/>
+								<figcaption>
+									<h3>Deepak Anand</h3>
+									<p>At Vindhayachal</p>
+								</figcaption>
+							</figure>
+						</li>
+						
+						<li>
+							<figure>
+								<img src="img/work/7.jpg" alt=""/>
+								<figcaption>
+									<h3>Deepak Anand</h3>
+									<p>Deepak Anand with his friend Prabhat Arya</p>
+								</figcaption>
+							</figure>
+						</li>
+						
+						<li>
+							<figure>
+								<img src="img/work/8.jpg" alt=""/>
+								<figcaption>
+									<h3>Rishikesh UK</h3>
+									<p>At Ramjhula Bridge,Rishikesh,Uttrakhand</p>
+								</figcaption>
+							</figure>
+						</li>
+					
+					</ul>
+				</section><!-- // end small images -->
+				
+				<section class="slideshow">
+					<ul>
+						<li>
+							<figure>
+								<img src="img/work/1.jpg" alt=""/>									
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/2.jpg" alt=""/>									
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/3.jpg" alt=""/>									
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/4.jpg" alt=""/>									
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/5.jpg" alt=""/>									
+							</figure>
+						</li>
+						<li>
+							<figure>
+								<img src="img/work/6.jpg" alt=""/>									
+							</figure>
+						</li>
+						
+						<li>
+							<figure>
+								<img src="img/work/7.jpg" alt=""/>									
+							</figure>
+						</li>
+						
+						<li>
+							<figure>
+								<img src="img/work/8.jpg" alt=""/>									
+							</figure>
+						</li>
+					</ul>
+					<nav>
+						<span class="icon nav-prev"></span>
+						<span class="icon nav-next"></span>
+						<span class="icon nav-close"></span>
+					</nav>
+					<div class="info-keys icon">Navigate with arrow keys</div>
+				</section><!-- // end slideshow -->					
+			</div><!-- // grid-gallery -->
+		</div>
+	</section>
+	
+	<!--education-->
+	<section class="feedback" id="feedback">
+		<div class="container">
+			<div class="heading">
+				<h2>Education</h2>
+				<h3>Education is the most powerful weapon which you can use to change the world. 
+- Nelson Mandela
+</h3>
+			</div>			
+		</div>
+		
+		<div class="container">
+			<div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
+				<div class="text-center">
+					<div class="hi-icon-wrap hi-icon-effect">												
+						<h4>Metriculation</h4>
+						
+						<i class="fa fa-laptop"></i>
+						<p>Mahendra High School,Ziradei,Siwan</p>
+					</div>
+				</div>	
+			</div>
+			
+			<div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.6s">
+				<div class="text-center">
+					<div class="hi-icon-wrap hi-icon-effect">												
+						<h4>Intermediate Science</h4>
+						
+						<i class="fa fa-book"></i>
+						<p>D.A.V P.G College Siwan,Bihar</p>
+					</div>
+				</div>		
+			</div>
+			
+			<div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.9s">
+				<div class="text-center">
+					<div class="hi-icon-wrap hi-icon-effect">												
+						<h4>Bachelor of Technology (Software Engineering)</h4>
+					
+						<i class="fa fa-gear"></i>
+						<p>Indian Institute of Information Technology,Allahabad</p>
+					</div>
+				</div>				
+			</div>
+		</div>
+		
+		<div class="container">
+			<div class="row">
+				<blockquote>"I think education is power. I think that being able to communicate with people is power. One of my main goals on the planet is to encourage people to empower themselves."
+				<cite>Deepak Anand<br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite> </blockquote>
+				<blockquote> It is better to play than do nothing. <cite>Deepak Anand<br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite> </blockquote>
+			</div>
+		</div>		
+	</section>
+	
+	<!--education-->
+	<section class="contact" id="contact">		
+		<div class="container">
+			<div class="heading">
+				<h2>Contact</h2>
+				<h3>The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.</h3>
+			</div>
+		</div>
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-7">
+					<div class="map">				
+						<iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Kuningan,+Jakarta+Capital+Region,+Indonesia&amp;aq=3&amp;oq=kuningan+&amp;sll=37.0625,-95.677068&amp;sspn=37.410045,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Kuningan&amp;t=m&amp;z=14&amp;ll=-6.238824,106.830177&amp;output=embed">
+						</iframe>	
+					</div>
+				</div>
+				
+				<div class="contact-info">
+					<div class="col-md-5">
+						<h4> Contact me</h4>
+						<h5>At- IIIT Allahabad</h5>
+						<p>Indian Institute of Information Technology Allahabad</p>
+						<ul>
+							<li><i class="fa fa-home fa-2x"></i> Devghat, Jhalwa, Allahabad-211012, U. P. INDIA</li>
+							<li><i class="fa fa-phone fa-2x"></i> 91-532-2922000,</li>
+							<li><i class="fa fa-envelope fa-2x"></i> http://www.deepakaanand.com/</li>
+							<li><i class="fa fa-download fa-2x"></i> Download My Resume</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container">
+		  <div class="row">
+			<div class="done">
+				<div class="alert alert-success">
+					<button type="button" class="close" data-dismiss="alert">×</button>
+					Your message has been sent. Thank you!
+				</div>
+			</div>
+		   <form method="post" action="contact.php" id="contactform">
+			  <input name="name" type="text" class="contact col-md-6" placeholder="Name *" >
+			  <input name="email" type="email" class="contact noMarr col-md-6" placeholder="E-mail address *" >
+			  <textarea name="comment" class="contact col-md-12" placeholder="Message *"></textarea>
+			  <input type="submit" id="anand4u4ever1@gmail.com" class="contact submit" value="Send message">
+			</form>
+		  </div>
+		</div>
+	</section>
+  
+	<!--footer-->
+	<section class="footer" id="footer">
+		<p class="text-center">
+			<a href="#wrapper" class="gototop"><i class="fa fa-angle-double-up fa-2x"></i></a>
+		</p>
+		<div class="container">
+			<ul>
+				<li><a href="https://www.facebook.com/pages/Deepak-Anand/616352455139081?ref=hl"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="https://twitter.com/Deepakanand1993"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCV-5RpV1OJyaR7Q0Ihs-gPA/videos"><i class="fa fa-youtube"></i></a></li>
+				<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+				<li><a href="#"><i class="fa fa-flickr"></i></a></li>
+			</ul>
+			<p>
+				&copy; 2015 <a target="_blank" href="http://www.deepakaanand.com/" title="Deepak Anand"><u>DeepakAnand.com</u> </a>  <br> Designed and Maintained by <u><a target="_blank" href="http://www.deepakaanand.com/" title="Deepak Anand"><u>Deepak Anand</u> </a></u></t>
+			</p>
+		</div>
+	</section>
+		
+	</div>
+    <script src="js/jquery.js"></script>
+	<script src="js/modernizr.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/menustick.js"></script>
+	<script src="js/parallax.js"></script>
+	<script src="js/easing.js"></script>
+	<script src="js/wow.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<script src="js/masonry.js"></script>
+	<script src="js/imgloaded.js"></script>
+	<script src="js/classie.js"></script>
+	<script src="js/colorfinder.js"></script>
+	<script src="js/gridscroll.js"></script>
+	<script src="js/contact.js"></script>
+	<script src="js/common.js"></script>
+	<script>
+	wow = new WOW(
+	 {
+	
+		}	) 
+		.init();
+	</script>	
+	<script type="text/javascript">
+jQuery(function($) {
+$(document).ready( function() {
+  //enabling stickUp on the '.navbar-wrapper' class
+	$('.navbar-wrapper').stickUp({
+		parts: {
+		  0: 'banner',
+		  1: 'aboutus',
+		  2: 'specialties',
+		  3: 'gallery',
+		  4: 'feedback',
+		  5: 'contact'
+		},
+		itemClass: 'menuItem',
+		itemHover: 'active',
+		topMargin: 'auto'
+		});
+	});
+});
+</script>
+  </body>
+</html>
